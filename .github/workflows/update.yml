@@ -36,6 +36,8 @@ jobs:
           plugin_people_types: contributors, stargazers, watchers, sponsors
           plugin_licenses: yes
           plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
+          plugin_licenses_legal: yes
+          plugin_licenses_ratio: yes
   user-metrics:
     needs: repo-metrics
     runs-on: ubuntu-latest
@@ -82,10 +84,12 @@ jobs:
           plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
           plugin_licenses_legal: yes
           plugin_licenses_ratio: yes
-          repositories: 100
-          repositories_batch: 150
           plugin_repositories: yes
           plugin_repositories_pinned: 2
+          plugin_calendar: yes
+          plugin_calendar_limit: 4
+          repositories: 100
+          repositories_batch: 150
           filename: github-metrics.svg
           committer_message: 'feat: Update User [skip ci]'
           optimize: yes
