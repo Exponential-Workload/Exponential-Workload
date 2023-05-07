@@ -6,8 +6,11 @@ on:
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
+concurrency:
+  group: "metrics"
+  cancel-in-progress: false
 jobs:
-  github-metrics:
+  user-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -65,3 +68,15 @@ jobs:
           # config_twemoji: yes
           # plugin_code: yes
           # plugin_code_visibility: public
+  repo-metrics:
+    needs: user-metrics
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          template: repository
+          user: Exponential-Workload
+          repo: astolfoaim
+          filename: astolfoaim-metrics.svg
