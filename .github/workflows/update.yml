@@ -34,6 +34,8 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_people: yes
           plugin_people_types: contributors, stargazers, watchers, sponsors
+          plugin_licenses: yes
+          plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
   user-metrics:
     needs: repo-metrics
     runs-on: ubuntu-latest
