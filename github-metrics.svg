@@ -1758,7 +1758,7 @@
           </h2>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            2347 Commits
+            2352 Commits
           </div>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1766,7 +1766,7 @@
           </div>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/></svg>
-            14 Pull requests opened
+            15 Pull requests opened
           </div>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/></svg>
@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    67.2k added, 6.21k removed
+                    55.3k added, 3.95k removed
                   
                 </div>
             
@@ -1857,7 +1857,7 @@
             </div>
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/></svg>
-              11 Forkers
+              12 Forkers
             </div>
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/></svg>
@@ -1941,19 +1941,19 @@
               </mask>
               <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
               
-                <rect mask="url(#issues-bar)" x="0" y="0" width="10.476190476190476" height="8" fill="#238636"/>
+                <rect mask="url(#issues-bar)" x="0" y="0" width="10" height="8" fill="#238636"/>
               
-                <rect mask="url(#issues-bar)" x="10.476190476190476" y="0" width="0" height="8" fill="#56d364"/>
+                <rect mask="url(#issues-bar)" x="10" y="0" width="0" height="8" fill="#56d364"/>
               
-                <rect mask="url(#issues-bar)" x="10.476190476190476" y="0" width="0" height="8" fill="#8B949E"/>
+                <rect mask="url(#issues-bar)" x="10" y="0" width="0" height="8" fill="#8B949E"/>
               
-                <rect mask="url(#issues-bar)" x="10.476190476190476" y="0" width="0" height="8" fill="#c9d1d9"/>
+                <rect mask="url(#issues-bar)" x="10" y="0" width="0" height="8" fill="#c9d1d9"/>
               
-                <rect mask="url(#issues-bar)" x="10.476190476190476" y="0" width="62.857142857142854" height="8" fill="#da3633"/>
+                <rect mask="url(#issues-bar)" x="10" y="0" width="59.99999999999999" height="8" fill="#da3633"/>
               
-                <rect mask="url(#issues-bar)" x="73.33333333333333" y="0" width="0" height="8" fill="#ff7b72"/>
+                <rect mask="url(#issues-bar)" x="70" y="0" width="0" height="8" fill="#ff7b72"/>
               
-                <rect mask="url(#issues-bar)" x="73.33333333333333" y="0" width="146.66666666666666" height="8" fill="#8957e5"/>
+                <rect mask="url(#issues-bar)" x="70" y="0" width="150" height="8" fill="#8957e5"/>
               
                 <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
               
@@ -1966,7 +1966,7 @@
               </div>
               <div class="field">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/></svg>
-                <span class="no-wrap">14 <small>merged</small></span>
+                <span class="no-wrap">15 <small>merged</small></span>
               </div>
               <div class="field">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#8B949E" d="M2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5zm9.5 3a2.25 2.25 0 100-4.5 2.25 2.25 0 000 4.5zm0-3a.75.75 0 100 1.5.75.75 0 000-1.5z"/><path d="M14 7.5a1.25 1.25 0 11-2.5 0 1.25 1.25 0 012.5 0zm0-4.25a1.25 1.25 0 11-2.5 0 1.25 1.25 0 012.5 0z"/></svg>
@@ -2009,19 +2009,19 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="344.38960107622006" height="8" fill="#000080"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="344.2984376873848" height="8" fill="#000080"/>
             
-              <rect mask="url(#languages-bar)" x="344.38960107622006" y="0" width="50.425733314489015" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="344.2984376873848" y="0" width="50.53415173947647" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="394.81533439070904" y="0" width="34.640841224392226" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="394.8325894268613" y="0" width="34.63167144554801" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="429.45617561510124" y="0" width="22.95597583041508" height="8" fill="#ff3e00"/>
+              <rect mask="url(#languages-bar)" x="429.4642608724093" y="0" width="22.949899152884228" height="8" fill="#ff3e00"/>
             
-              <rect mask="url(#languages-bar)" x="452.4121514455163" y="0" width="6.984472629497991" height="8" fill="#178600"/>
+              <rect mask="url(#languages-bar)" x="452.41416002529354" y="0" width="6.982623769392628" height="8" fill="#178600"/>
             
-              <rect mask="url(#languages-bar)" x="459.3966240750143" y="0" width="0.5712707876402201" height="8" fill="#c6538c"/>
+              <rect mask="url(#languages-bar)" x="459.39678379468614" y="0" width="0.5711195665209381" height="8" fill="#c6538c"/>
             
-              <rect mask="url(#languages-bar)" x="459.96789486265453" y="0" width="0.032105137345428594" height="8" fill="#012456"/>
+              <rect mask="url(#languages-bar)" x="459.9679033612071" y="0" width="0.03209663879288728" height="8" fill="#012456"/>
             
           </svg>
         
@@ -2038,7 +2038,7 @@
                     <small>
                       
                        <div>1.72 MB</div>
-                       <div>74.87%</div>
+                       <div>74.85%</div>
                     </small>
                   </div>
                 
@@ -2090,7 +2090,7 @@
                     <small>
                       
                        <div>251 kB</div>
-                       <div>10.96%</div>
+                       <div>10.99%</div>
                     </small>
                   </div>
                 
@@ -6472,10 +6472,44 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#f4f52ea</div>
-                        <div class="message">fix: Everything i've done before now that i havent committed yet
-
-broke my system right before i was gonna commit lol</div>
+                        <div class="sha">#b09f0ac</div>
+                        <div class="message">fix: finally, an issue related to this</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 1 commit in <span class="repo">L8X/Roblox-Client-Optimizer</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">recode</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#e157392</div>
+                        <div class="message">fix: it's that time again</div>
                       </div>
                     
                   </div>
@@ -6510,8 +6544,8 @@ broke my system right before i was gonna commit lol</div>
                     
                     
                       <div class="commit">
-                        <div class="sha">#5015971</div>
-                        <div class="message">fix: Fix node execution</div>
+                        <div class="sha">#0927e49</div>
+                        <div class="message">fix: Fallback to node.exe</div>
                       </div>
                     
                   </div>
@@ -6537,53 +6571,17 @@ broke my system right before i was gonna commit lol</div>
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
-                      Pushed 1 commit in <span class="repo">Exponential-Workload/nodeinstallutil</span>
+                      Pushed 1 commit in <span class="repo">L8X/Roblox-Client-Optimizer</span>
                     </div>
                   </div>
                   <div class="details">
                     
-                      <div>on branch <span class="code">master</span></div>
+                      <div>on branch <span class="code">recode</span></div>
                     
                     
                       <div class="commit">
-                        <div class="sha">#9478178</div>
-                        <div class="message">fix: prepublish hook cuz i forgor</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Exponential-Workload/nodeinstallutil</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">master</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#2d0a320</div>
-                        <div class="message">fix: Fix shit</div>
+                        <div class="sha">#ca40bf4</div>
+                        <div class="message">fix: Upgrade Deps, again</div>
                       </div>
                     
                   </div>
@@ -6618,13 +6616,13 @@ broke my system right before i was gonna commit lol</div>
                     
                     
                       <div class="commit">
-                        <div class="sha">#3ab133f</div>
-                        <div class="message">merge: Merge branch 'master' of github.com:Exponential-Workload/nodeinstallutil</div>
+                        <div class="sha">#2683453</div>
+                        <div class="message">fix: bump</div>
                       </div>
                     
                       <div class="commit">
-                        <div class="sha">#2953049</div>
-                        <div class="message">fix: No const enums</div>
+                        <div class="sha">#c4a0ba1</div>
+                        <div class="message">fix: attempt to trim extensions for search()</div>
                       </div>
                     
                   </div>
@@ -6968,7 +6966,7 @@ broke my system right before i was gonna commit lol</div>
                   <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                     <circle class="gauge-base" r="25" cx="28" cy="28"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="15.577889447236181 155"/>
+                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.35678391959799 155"/>
                     
                   </svg>
                   <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)"><g stroke-width="2" fill="none" fill-rule="evenodd"><path stroke="#79B8FF" stroke-linecap="round" stroke-linejoin="round" d="M26.022 5.014h6M26.012 53.005h6M27.003 47.003h12M44.01 20.005h5M19.01 11.003h12"/><path stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round" d="M38.005 11.008h6M41 14.013v-6M14.007 47.003h6M17.002 50.004v-6"/><path d="M29.015 5.01l-5.003 5.992 5.003-5.992zM33.015 47.01l-5.003 5.992 5.003-5.992z" stroke="#79B8FF"/><path stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round" d="M8.01 19.002h6"/><path stroke="#79B8FF" stroke-linecap="round" stroke-linejoin="round" d="M47.011 29h6"/><path stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round" d="M44.012 39.003h6"/><g stroke="#79B8FF"><path d="M5.36 29c4.353 0 6.4 4.472 6.4 8"/><path stroke-linecap="round" stroke-linejoin="round" d="M13.99 37.995h-5M10.989 29h-6"/></g><path d="M24.503 22c1.109 0 2.007.895 2.007 2 0 1.104-.898 2-2.007 2a2.004 2.004 0 01-2.008-2c0-1.105.9-2 2.008-2zM24.5 32a2 2 0 110 4 2 2 0 010-4zm9.5 0a2 2 0 110 4 2 2 0 010-4z" stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round"/><path stroke="#2088FF" d="M24.5 26.004v6.001"/><path d="M31.076 23.988l1.027-.023a1.998 1.998 0 011.932 2.01L34 31" stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round"/><path stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round" d="M31.588 26.222l-2.194-2.046 2.046-2.194"/><path d="M29.023 43c7.732 0 14-6.268 14-14s-6.268-14-14-14-14 6.268-14 14 6.268 14 14 14z" stroke="#2088FF"/></g></svg>
@@ -6980,7 +6978,7 @@ broke my system right before i was gonna commit lol</div>
                   
                   
                 </div>
-                <div class="text">Opened 21 pull requests</div>
+                <div class="text">Opened 22 pull requests</div>
               </div>
             </div>
           
@@ -7242,7 +7240,7 @@ broke my system right before i was gonna commit lol</div>
           
             <span>These metrics do not include all private contributions</span>
           
-          <span>Last updated 12 May 2023, 09:50:22 (timezone Europe/Zurich) with lowlighter/metrics@3.33.0</span>
+          <span>Last updated 12 May 2023, 11:22:14 (timezone Europe/Zurich) with lowlighter/metrics@3.33.0</span>
         </footer>
       
 
