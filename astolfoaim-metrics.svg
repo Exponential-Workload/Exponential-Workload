@@ -93,10 +93,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="251.25957257078127" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="251.25957257078127" y="0" width="158.67421024408173" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="409.93378281486304" y="0" width="43.80239683314354" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="453.73617964800655" y="0" width="6.263820351993445" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="252.21608476212592" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="252.21608476212592" y="0" width="157.01071747180094" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="409.22680223392683" y="0" width="44.420926566376224" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="453.64772880030307" y="0" width="6.352271199696929" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -108,9 +108,9 @@
                                 Svelte
                             </div>
                             <small>
-                                <div>4.01k lines</div>
-                                <div>90.6 kB</div>
-                                <div>54.62%</div>
+                                <div>3.98k lines</div>
+                                <div>89.7 kB</div>
+                                <div>54.83%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -123,7 +123,7 @@
                             <small>
                                 <div>310 lines</div>
                                 <div>15.8 kB</div>
-                                <div>9.52%</div>
+                                <div>9.66%</div>
                             </small>
                         </div>
                     </section>
@@ -136,9 +136,9 @@
                                 Lua
                             </div>
                             <small>
-                                <div>2.14k lines</div>
-                                <div>57.2 kB</div>
-                                <div>34.49%</div>
+                                <div>2.08k lines</div>
+                                <div>55.8 kB</div>
+                                <div>34.13%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -151,7 +151,7 @@
                             <small>
                                 <div>147 lines</div>
                                 <div>2.26 kB</div>
-                                <div>1.36%</div>
+                                <div>1.38%</div>
                             </small>
                         </div>
                     </section>
@@ -211,7 +211,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 29 May 2023, 15:21:11 with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 29 May 2023, 15:48:49 with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
