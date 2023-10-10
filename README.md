@@ -27,7 +27,7 @@ contact me on [matrix](https://matrix.to/#/@3xpo:matrix.org), [discord](https://
 
 ###### me
 
-[![](https://raw.githubusercontent.com/Exponential-Workload/Exponential-Workload/main/github-metrics.svg)](https://github.com/Exponential-Workload/astolfoaim)
+[![](https://raw.githubusercontent.com/Exponential-Workload/Exponential-Workload/main/github-metrics.svg)](https://codeberg.org/Expo)
 
 > **Warning**
 I'm under your bed.
