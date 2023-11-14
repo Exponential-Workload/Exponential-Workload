@@ -2,7 +2,7 @@
 hi, i'm exponential-workload. i write 🍝 code.
 
 ###### where i spend most of my time
-i work as a developer at [nexuspipe](https://nexuspipe.com), a ddos protection and mitigation provider.
+i work as a developer at [nexuspipe](https://nexuspipe.com), a ddos protection and mitigation service.
 
 ###### projects
 
