@@ -10,60 +10,6 @@ concurrency:
   group: "metrics"
   cancel-in-progress: false
 jobs:
-  repo-metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: AstolfoAim Stats
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.TOKEN }}
-          template: repository
-          user: Exponential-Workload
-          repo: astolfoaim
-          filename: astolfoaim-metrics.svg
-          committer_message: 'feat: Update Repo AstolfoAim [skip ci]'
-          plugin_introduction: yes
-          plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
-          plugin_languages_indepth: yes
-          plugin_languages_details: lines, bytes-size, percentage
-          plugin_languages_limit: 4
-          plugin_languages_analysis_timeout: 15
-          plugin_people: yes
-          plugin_people_types: contributors, stargazers, watchers, sponsors
-          # broken on da aim
-          #plugin_licenses: yes
-          #plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
-          #plugin_licenses_legal: yes
-          #plugin_licenses_ratio: yes
-      - name: ytdl Stats
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.TOKEN }}
-          template: repository
-          user: BreadCity
-          repo: ytdl
-          filename: ytdl-metrics.svg
-          committer_message: 'feat: Update Repo ytdl [skip ci]'
-          plugin_introduction: yes
-          plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
-          plugin_languages_indepth: yes
-          plugin_languages_details: lines, bytes-size, percentage
-          plugin_languages_limit: 4
-          plugin_languages_analysis_timeout: 15
-          plugin_people: yes
-          plugin_people_types: contributors, stargazers, watchers, sponsors
-          plugin_licenses: yes
-          plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
-          plugin_licenses_legal: yes
-          plugin_licenses_ratio: yes
   user-metrics:
     needs: repo-metrics
     runs-on: ubuntu-latest
