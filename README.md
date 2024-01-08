@@ -1,3 +1,11 @@
+### codeberg
+
+im slowly moving to [codeberg](https://codeberg.org/Expo) - a lot of my newer projects are there.
+
+[i encourage you do too](https://giveupgithub.org)
+
+---
+
 ###### who i am
 hi, i'm exponential-workload. i write 🍝 code.
 
