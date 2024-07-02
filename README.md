@@ -10,7 +10,7 @@ im slowly moving to [codeberg](https://codeberg.org/Expo) - a lot of my newer pr
 hi, i'm exponential-workload. i write 🍝 code.
 
 ###### where i spend most of my time
-i work as a developer at [nexuspipe](https://nexuspipe.com), a ddos protection and mitigation service.
+i work as a developer at [script-ware](https://script-ware.com), a ddos protection and mitigation service.
 
 ###### projects
 
